@@ -4153,6 +4153,106 @@
     {
       "geometry": {
         "coordinates": [
+          -108.32082,
+          25.8208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-19",
+        "acq_time": "2031",
+        "bright_t31": "303.61",
+        "brightness": "315.11",
+        "confidence": "71",
+        "daynight": "D",
+        "frp": "6.53",
+        "latitude": "25.8208",
+        "longitude": "-108.32082",
+        "satellite": "A",
+        "scan": "1",
+        "track": "1",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.62326,
+          30.48953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-19",
+        "acq_time": "2033",
+        "bright_t31": "292.91",
+        "brightness": "305.42",
+        "confidence": "54",
+        "daynight": "D",
+        "frp": "4.76",
+        "latitude": "30.48953",
+        "longitude": "-109.62326",
+        "satellite": "A",
+        "scan": "1",
+        "track": "1",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.63352,
+          30.48804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-19",
+        "acq_time": "2033",
+        "bright_t31": "293.95",
+        "brightness": "310.19",
+        "confidence": "66",
+        "daynight": "D",
+        "frp": "7.91",
+        "latitude": "30.48804",
+        "longitude": "-109.63352",
+        "satellite": "A",
+        "scan": "1",
+        "track": "1",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.47161,
+          30.73051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-19",
+        "acq_time": "2033",
+        "bright_t31": "300.28",
+        "brightness": "320.06",
+        "confidence": "72",
+        "daynight": "D",
+        "frp": "13.54",
+        "latitude": "30.73051",
+        "longitude": "-112.47161",
+        "satellite": "A",
+        "scan": "1.19",
+        "track": "1.08",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -161.88057,
           55.42061
         ],
