@@ -4303,6 +4303,56 @@
     {
       "geometry": {
         "coordinates": [
+          -155.28482,
+          19.40155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-19",
+        "acq_time": "2350",
+        "bright_t31": "327.41",
+        "brightness": "461.11",
+        "confidence": "100",
+        "daynight": "D",
+        "frp": "880.63",
+        "latitude": "19.40155",
+        "longitude": "-155.28482",
+        "satellite": "A",
+        "scan": "1.02",
+        "track": "1.01",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.29442,
+          19.40021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-19",
+        "acq_time": "2350",
+        "bright_t31": "308.4",
+        "brightness": "407.63",
+        "confidence": "100",
+        "daynight": "D",
+        "frp": "301.76",
+        "latitude": "19.40021",
+        "longitude": "-155.29442",
+        "satellite": "A",
+        "scan": "1.02",
+        "track": "1.01",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -161.88057,
           55.42061
         ],
