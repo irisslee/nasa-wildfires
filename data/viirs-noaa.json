@@ -26853,6 +26853,31 @@
     {
       "geometry": {
         "coordinates": [
+          -88.542,
+          18.48644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-21",
+        "acq_time": "1936",
+        "bright_ti4": "328.38",
+        "bright_ti5": "291",
+        "confidence": "nominal",
+        "daynight": "D",
+        "frp": "2.85",
+        "latitude": "18.48644",
+        "longitude": "-88.542",
+        "satellite": "1",
+        "scan": "0.52",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -145.13818,
           63.97831
         ],
