@@ -4074,6 +4074,31 @@
         "version": "6.1NRT"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -161.88863,
+          55.41771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-22",
+        "acq_time": "1316",
+        "bright_t31": "270.13",
+        "brightness": "317.37",
+        "confidence": "93",
+        "daynight": "N",
+        "frp": "21.37",
+        "latitude": "55.41771",
+        "longitude": "-161.88863",
+        "satellite": "A",
+        "scan": "1.01",
+        "track": "1.01",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
