@@ -29349,6 +29349,56 @@
         "version": "2.0NRT"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -161.87651,
+          55.41525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-22",
+        "acq_time": "1352",
+        "bright_ti4": "336.65",
+        "bright_ti5": "275.72",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "2.89",
+        "latitude": "55.41525",
+        "longitude": "-161.87651",
+        "satellite": "N",
+        "scan": "0.49",
+        "track": "0.49",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -161.88242,
+          55.41183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-22",
+        "acq_time": "1352",
+        "bright_ti4": "320.45",
+        "bright_ti5": "269.01",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "2.89",
+        "latitude": "55.41183",
+        "longitude": "-161.88242",
+        "satellite": "N",
+        "scan": "0.49",
+        "track": "0.49",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
