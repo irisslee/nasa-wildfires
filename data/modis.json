@@ -7453,6 +7453,31 @@
     {
       "geometry": {
         "coordinates": [
+          -119.85242,
+          36.63852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-26",
+        "acq_time": "1857",
+        "bright_t31": "283.43",
+        "brightness": "307.88",
+        "confidence": "66",
+        "daynight": "D",
+        "frp": "11.39",
+        "latitude": "36.63852",
+        "longitude": "-119.85242",
+        "satellite": "T",
+        "scan": "1.1",
+        "track": "1.05",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -161.89432,
           55.42309
         ],
