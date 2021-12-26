@@ -31224,6 +31224,31 @@
         "version": "2.0NRT"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -161.88174,
+          55.41656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-26",
+        "acq_time": "1325",
+        "bright_ti4": "329.7",
+        "bright_ti5": "248.39",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "5.18",
+        "latitude": "55.41656",
+        "longitude": "-161.88174",
+        "satellite": "1",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
