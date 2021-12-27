@@ -27703,6 +27703,56 @@
     {
       "geometry": {
         "coordinates": [
+          -122.69503,
+          48.82865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-27",
+        "acq_time": "1125",
+        "bright_ti4": "302.16",
+        "bright_ti5": "258.39",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.35",
+        "latitude": "48.82865",
+        "longitude": "-122.69503",
+        "satellite": "1",
+        "scan": "0.51",
+        "track": "0.66",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.69752,
+          48.82734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-27",
+        "acq_time": "1125",
+        "bright_ti4": "301.42",
+        "bright_ti5": "258.3",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.1",
+        "latitude": "48.82734",
+        "longitude": "-122.69752",
+        "satellite": "1",
+        "scan": "0.51",
+        "track": "0.66",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -161.9028,
           55.417
         ],
