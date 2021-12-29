@@ -8403,6 +8403,31 @@
     {
       "geometry": {
         "coordinates": [
+          -70.34898,
+          18.93001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2021-12-29",
+        "acq_time": "1437",
+        "bright_t31": "289.69",
+        "brightness": "307.08",
+        "confidence": "53",
+        "daynight": "D",
+        "frp": "36.43",
+        "latitude": "18.93001",
+        "longitude": "-70.34898",
+        "satellite": "T",
+        "scan": "3.92",
+        "track": "1.84",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -161.88628,
           55.41376
         ],
