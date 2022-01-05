@@ -10149,6 +10149,106 @@
         "version": "6.1NRT"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.59411,
+          32.05474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-05",
+        "acq_time": "1800",
+        "bright_t31": "284.72",
+        "brightness": "313.89",
+        "confidence": "60",
+        "daynight": "D",
+        "frp": "72.32",
+        "latitude": "32.05474",
+        "longitude": "-81.59411",
+        "satellite": "A",
+        "scan": "3.37",
+        "track": "1.73",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.1427,
+          32.57109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-05",
+        "acq_time": "1800",
+        "bright_t31": "285.24",
+        "brightness": "304.14",
+        "confidence": "58",
+        "daynight": "D",
+        "frp": "38",
+        "latitude": "32.57109",
+        "longitude": "-82.1427",
+        "satellite": "A",
+        "scan": "3.55",
+        "track": "1.77",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.14796,
+          32.56484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-05",
+        "acq_time": "1800",
+        "bright_t31": "285.25",
+        "brightness": "300.41",
+        "confidence": "36",
+        "daynight": "D",
+        "frp": "28",
+        "latitude": "32.56484",
+        "longitude": "-82.14796",
+        "satellite": "A",
+        "scan": "3.55",
+        "track": "1.77",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.8783,
+          32.38781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-05",
+        "acq_time": "1800",
+        "bright_t31": "285.62",
+        "brightness": "302.54",
+        "confidence": "53",
+        "daynight": "D",
+        "frp": "39.9",
+        "latitude": "32.38781",
+        "longitude": "-82.8783",
+        "satellite": "A",
+        "scan": "4",
+        "track": "1.86",
+        "version": "6.1NRT"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
