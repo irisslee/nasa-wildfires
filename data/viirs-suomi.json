@@ -40853,6 +40853,106 @@
     {
       "geometry": {
         "coordinates": [
+          -66.23363,
+          17.97404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-06",
+        "acq_time": "1706",
+        "bright_ti4": "327.45",
+        "bright_ti5": "296.93",
+        "confidence": "nominal",
+        "daynight": "D",
+        "frp": "5.96",
+        "latitude": "17.97404",
+        "longitude": "-66.23363",
+        "satellite": "N",
+        "scan": "0.62",
+        "track": "0.54",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.23462,
+          17.97898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-06",
+        "acq_time": "1706",
+        "bright_ti4": "333.98",
+        "bright_ti5": "297.57",
+        "confidence": "nominal",
+        "daynight": "D",
+        "frp": "6.9",
+        "latitude": "17.97898",
+        "longitude": "-66.23462",
+        "satellite": "N",
+        "scan": "0.62",
+        "track": "0.54",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.24046,
+          17.97781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-06",
+        "acq_time": "1706",
+        "bright_ti4": "340.83",
+        "bright_ti5": "298.29",
+        "confidence": "nominal",
+        "daynight": "D",
+        "frp": "6.9",
+        "latitude": "17.97781",
+        "longitude": "-66.24046",
+        "satellite": "N",
+        "scan": "0.62",
+        "track": "0.54",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.35278,
+          18.92607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-06",
+        "acq_time": "1706",
+        "bright_ti4": "367",
+        "bright_ti5": "293.75",
+        "confidence": "high",
+        "daynight": "D",
+        "frp": "8.75",
+        "latitude": "18.92607",
+        "longitude": "-70.35278",
+        "satellite": "N",
+        "scan": "0.55",
+        "track": "0.68",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -161.89024,
           55.41464
         ],
