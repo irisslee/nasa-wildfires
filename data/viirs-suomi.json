@@ -30703,6 +30703,1481 @@
     {
       "geometry": {
         "coordinates": [
+          -103.45654,
+          47.93405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0915",
+        "bright_ti4": "309.07",
+        "bright_ti5": "266.62",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.04",
+        "latitude": "47.93405",
+        "longitude": "-103.45654",
+        "satellite": "N",
+        "scan": "0.45",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.59261,
+          42.68713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0915",
+        "bright_ti4": "325.19",
+        "bright_ti5": "262.59",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "16.85",
+        "latitude": "42.68713",
+        "longitude": "-111.59261",
+        "satellite": "N",
+        "scan": "0.4",
+        "track": "0.37",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.59349,
+          42.6838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0915",
+        "bright_ti4": "341.68",
+        "bright_ti5": "263.02",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "16.85",
+        "latitude": "42.6838",
+        "longitude": "-111.59349",
+        "satellite": "N",
+        "scan": "0.4",
+        "track": "0.37",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -101.70033,
+          39.37867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "301.7",
+        "bright_ti5": "268.13",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.21",
+        "latitude": "39.37867",
+        "longitude": "-101.70033",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.25757,
+          40.8234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "300.95",
+        "bright_ti5": "267.54",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.02",
+        "latitude": "40.8234",
+        "longitude": "-114.25757",
+        "satellite": "N",
+        "scan": "0.45",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.83691,
+          36.51876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "308.93",
+        "bright_ti5": "272.34",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.8",
+        "latitude": "36.51876",
+        "longitude": "-97.83691",
+        "satellite": "N",
+        "scan": "0.49",
+        "track": "0.65",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.24115,
+          38.62529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "338.51",
+        "bright_ti5": "260.79",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "8.77",
+        "latitude": "38.62529",
+        "longitude": "-120.24115",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.23505,
+          38.62484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "339.14",
+        "bright_ti5": "259.35",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "8.77",
+        "latitude": "38.62484",
+        "longitude": "-120.23505",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.23472,
+          38.62703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "340.97",
+        "bright_ti5": "259.83",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "5.22",
+        "latitude": "38.62703",
+        "longitude": "-120.23472",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.24072,
+          38.62751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "314.46",
+        "bright_ti5": "259.9",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "4.43",
+        "latitude": "38.62751",
+        "longitude": "-120.24072",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.24198,
+          38.62291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "296.63",
+        "bright_ti5": "260.23",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "4.43",
+        "latitude": "38.62291",
+        "longitude": "-120.24198",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.23584,
+          38.62241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "311.73",
+        "bright_ti5": "259.76",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "5.22",
+        "latitude": "38.62241",
+        "longitude": "-120.23584",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.23685,
+          38.61778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "324.58",
+        "bright_ti5": "260.64",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "2.85",
+        "latitude": "38.61778",
+        "longitude": "-120.23685",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.23167,
+          38.60794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "319.13",
+        "bright_ti5": "262.17",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "2.85",
+        "latitude": "38.60794",
+        "longitude": "-120.23167",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.23237,
+          38.60329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "301.65",
+        "bright_ti5": "261.44",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "2.85",
+        "latitude": "38.60329",
+        "longitude": "-120.23237",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -101.89363,
+          35.53611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "355.25",
+        "bright_ti5": "276.9",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "3.35",
+        "latitude": "35.53611",
+        "longitude": "-101.89363",
+        "satellite": "N",
+        "scan": "0.32",
+        "track": "0.55",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.13772,
+          38.07215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "299.23",
+        "bright_ti5": "278.16",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.18",
+        "latitude": "38.07215",
+        "longitude": "-122.13772",
+        "satellite": "N",
+        "scan": "0.33",
+        "track": "0.56",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.25509,
+          38.0429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0917",
+        "bright_ti4": "295.23",
+        "bright_ti5": "281.46",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.81",
+        "latitude": "38.0429",
+        "longitude": "-122.25509",
+        "satellite": "N",
+        "scan": "0.34",
+        "track": "0.56",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.24339,
+          37.04104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "321.68",
+        "bright_ti5": "271.87",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "2.34",
+        "latitude": "37.04104",
+        "longitude": "-119.24339",
+        "satellite": "N",
+        "scan": "0.45",
+        "track": "0.47",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.2381,
+          37.04054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "298.23",
+        "bright_ti5": "271.27",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.64",
+        "latitude": "37.04054",
+        "longitude": "-119.2381",
+        "satellite": "N",
+        "scan": "0.45",
+        "track": "0.47",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.23328,
+          37.0357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "351.82",
+        "bright_ti5": "280.86",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "10.8",
+        "latitude": "37.0357",
+        "longitude": "-119.23328",
+        "satellite": "N",
+        "scan": "0.45",
+        "track": "0.47",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.24411,
+          37.03672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "304.11",
+        "bright_ti5": "271.06",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.22",
+        "latitude": "37.03672",
+        "longitude": "-119.24411",
+        "satellite": "N",
+        "scan": "0.45",
+        "track": "0.47",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.23897,
+          37.03624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "297.12",
+        "bright_ti5": "270.11",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "10.8",
+        "latitude": "37.03624",
+        "longitude": "-119.23897",
+        "satellite": "N",
+        "scan": "0.45",
+        "track": "0.47",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.23423,
+          37.0314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "303.48",
+        "bright_ti5": "271.97",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "10.8",
+        "latitude": "37.0314",
+        "longitude": "-119.23423",
+        "satellite": "N",
+        "scan": "0.45",
+        "track": "0.47",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.91193,
+          36.35842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "310.53",
+        "bright_ti5": "275.56",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.12",
+        "latitude": "36.35842",
+        "longitude": "-114.91193",
+        "satellite": "N",
+        "scan": "0.43",
+        "track": "0.38",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.04419,
+          32.4564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "303.72",
+        "bright_ti5": "270.15",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "3.18",
+        "latitude": "32.4564",
+        "longitude": "-97.04419",
+        "satellite": "N",
+        "scan": "0.7",
+        "track": "0.75",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.03719,
+          32.4543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "308.02",
+        "bright_ti5": "272.56",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "3.38",
+        "latitude": "32.4543",
+        "longitude": "-97.03719",
+        "satellite": "N",
+        "scan": "0.7",
+        "track": "0.75",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.03826,
+          32.45517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "320.75",
+        "bright_ti5": "273.21",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "4.38",
+        "latitude": "32.45517",
+        "longitude": "-97.03826",
+        "satellite": "N",
+        "scan": "0.7",
+        "track": "0.75",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.63271,
+          36.11238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "297.96",
+        "bright_ti5": "277.52",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.56",
+        "latitude": "36.11238",
+        "longitude": "-119.63271",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.47",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.66348,
+          35.0592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "298.55",
+        "bright_ti5": "263.54",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.55",
+        "latitude": "35.0592",
+        "longitude": "-111.66348",
+        "satellite": "N",
+        "scan": "0.39",
+        "track": "0.36",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.6601,
+          35.05524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "301.26",
+        "bright_ti5": "261.95",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.09",
+        "latitude": "35.05524",
+        "longitude": "-111.6601",
+        "satellite": "N",
+        "scan": "0.39",
+        "track": "0.36",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -101.38161,
+          32.43443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "296.03",
+        "bright_ti5": "271.39",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.64",
+        "latitude": "32.43443",
+        "longitude": "-101.38161",
+        "satellite": "N",
+        "scan": "0.41",
+        "track": "0.6",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -101.64381,
+          32.47726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "304",
+        "bright_ti5": "273.04",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.7",
+        "latitude": "32.47726",
+        "longitude": "-101.64381",
+        "satellite": "N",
+        "scan": "0.39",
+        "track": "0.59",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.453,
+          34.04999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "309.41",
+        "bright_ti5": "265.23",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.17",
+        "latitude": "34.04999",
+        "longitude": "-109.453",
+        "satellite": "N",
+        "scan": "0.44",
+        "track": "0.38",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.45396,
+          34.04653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "321.85",
+        "bright_ti5": "265",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "2.36",
+        "latitude": "34.04653",
+        "longitude": "-109.45396",
+        "satellite": "N",
+        "scan": "0.44",
+        "track": "0.38",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.07526,
+          33.80751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "308.34",
+        "bright_ti5": "265.42",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.8",
+        "latitude": "33.80751",
+        "longitude": "-109.07526",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.09093,
+          33.80677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "299.47",
+        "bright_ti5": "265.66",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.83",
+        "latitude": "33.80677",
+        "longitude": "-109.09093",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.07638,
+          33.80976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "298.39",
+        "bright_ti5": "265.28",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.85",
+        "latitude": "33.80976",
+        "longitude": "-109.07638",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.07727,
+          33.80622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "298.38",
+        "bright_ti5": "265.84",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.85",
+        "latitude": "33.80622",
+        "longitude": "-109.07727",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.09296,
+          33.80541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "306.14",
+        "bright_ti5": "264.49",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "2.28",
+        "latitude": "33.80541",
+        "longitude": "-109.09296",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.10468,
+          33.80017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "298.55",
+        "bright_ti5": "266.49",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.02",
+        "latitude": "33.80017",
+        "longitude": "-109.10468",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.09975,
+          33.79927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "305.3",
+        "bright_ti5": "266.6",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.32",
+        "latitude": "33.79927",
+        "longitude": "-109.09975",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.09577,
+          33.79482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "296.2",
+        "bright_ti5": "264.78",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.32",
+        "latitude": "33.79482",
+        "longitude": "-109.09577",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.08105,
+          33.7921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "303.54",
+        "bright_ti5": "267.45",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.93",
+        "latitude": "33.7921",
+        "longitude": "-109.08105",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.07115,
+          33.79026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "300.76",
+        "bright_ti5": "266.47",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.76",
+        "latitude": "33.79026",
+        "longitude": "-109.07115",
+        "satellite": "N",
+        "scan": "0.46",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.33527,
+          34.60837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "305.16",
+        "bright_ti5": "274.87",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "2.07",
+        "latitude": "34.60837",
+        "longitude": "-117.33527",
+        "satellite": "N",
+        "scan": "0.51",
+        "track": "0.41",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.64395,
+          34.43031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "301.03",
+        "bright_ti5": "280.06",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.62",
+        "latitude": "34.43031",
+        "longitude": "-118.64395",
+        "satellite": "N",
+        "scan": "0.39",
+        "track": "0.44",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.5182,
+          34.33481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "311.79",
+        "bright_ti5": "279.8",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.36",
+        "latitude": "34.33481",
+        "longitude": "-118.5182",
+        "satellite": "N",
+        "scan": "0.39",
+        "track": "0.44",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.80202,
+          34.29074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "304.86",
+        "bright_ti5": "282.66",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.62",
+        "latitude": "34.29074",
+        "longitude": "-118.80202",
+        "satellite": "N",
+        "scan": "0.4",
+        "track": "0.44",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.2661,
+          34.31248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "311.3",
+        "bright_ti5": "283.65",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.54",
+        "latitude": "34.31248",
+        "longitude": "-119.2661",
+        "satellite": "N",
+        "scan": "0.42",
+        "track": "0.45",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.19088,
+          34.15464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "303.02",
+        "bright_ti5": "280.75",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.82",
+        "latitude": "34.15464",
+        "longitude": "-118.19088",
+        "satellite": "N",
+        "scan": "0.56",
+        "track": "0.43",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.33094,
+          33.85379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "299.21",
+        "bright_ti5": "286.75",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.54",
+        "latitude": "33.85379",
+        "longitude": "-118.33094",
+        "satellite": "N",
+        "scan": "0.56",
+        "track": "0.43",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.02831,
+          32.85695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "297.42",
+        "bright_ti5": "277.1",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.66",
+        "latitude": "32.85695",
+        "longitude": "-117.02831",
+        "satellite": "N",
+        "scan": "0.48",
+        "track": "0.4",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.58312,
+          31.84415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "299.9",
+        "bright_ti5": "283.76",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.47",
+        "latitude": "31.84415",
+        "longitude": "-116.58312",
+        "satellite": "N",
+        "scan": "0.45",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.5851,
+          31.84568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "296.4",
+        "bright_ti5": "282.47",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.41",
+        "latitude": "31.84568",
+        "longitude": "-116.5851",
+        "satellite": "N",
+        "scan": "0.45",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.62804,
+          30.49752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "302.31",
+        "bright_ti5": "275.25",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.04",
+        "latitude": "30.49752",
+        "longitude": "-109.62804",
+        "satellite": "N",
+        "scan": "0.48",
+        "track": "0.4",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.08925,
+          28.68469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0919",
+        "bright_ti4": "302.48",
+        "bright_ti5": "272.85",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "1.1",
+        "latitude": "28.68469",
+        "longitude": "-106.08925",
+        "satellite": "N",
+        "scan": "0.53",
+        "track": "0.5",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.66922,
+          28.12318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0921",
+        "bright_ti4": "309.12",
+        "bright_ti5": "277.9",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.94",
+        "latitude": "28.12318",
+        "longitude": "-110.66922",
+        "satellite": "N",
+        "scan": "0.47",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.67006,
+          28.11959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acq_date": "2022-01-11",
+        "acq_time": "0921",
+        "bright_ti4": "296.23",
+        "bright_ti5": "276.33",
+        "confidence": "nominal",
+        "daynight": "N",
+        "frp": "0.94",
+        "latitude": "28.11959",
+        "longitude": "-110.67006",
+        "satellite": "N",
+        "scan": "0.47",
+        "track": "0.39",
+        "version": "2.0NRT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -161.88791,
           55.41552
         ],
